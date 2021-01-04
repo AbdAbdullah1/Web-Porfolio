@@ -24,7 +24,8 @@ h1{
 .topbanner{background-image:url(img/top-banner.png);
 
 }
-section{
+section{ 
+    padding bottom: 30px;
     height: 500px;
     background-repeat: no-repeat;
 }
