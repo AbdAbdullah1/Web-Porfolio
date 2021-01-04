@@ -1,4 +1,4 @@
-body{
+body{ margin: 0;
     font-family: 'Redressed', cursive;
 
 
@@ -20,4 +20,20 @@ h1{
 }
 .half img{
     width: 100%;
+}
+.topbanner{background-image:url(img/top-banner.png);
+
+}
+section{
+    height: 500px;
+    background-repeat: no-repeat;
+}
+
+.linkbutton{
+    color: rgb(250, 250, 250);
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,salmon);
+    border-radius: 5px;
+    
+    
 }
